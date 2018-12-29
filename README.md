@@ -1,3 +1,3 @@
 # Deep-Learning-vs-Random-Forest
 
-We compare the results of using a deep learning algorithm vs a random forest algorithm for tabular data.
+This model compares the results of using a deep learning algorithm vs using a random forest algorithm for tabular data. The deep learning model was built using PyTorch and the fastai library.
