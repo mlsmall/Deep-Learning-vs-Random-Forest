@@ -1,6 +1,6 @@
 # Tabular Data: Deep Learning vs Random Forest
 
-This model compares the results of using a deep learning algorithm vs using a random forest algorithm for tabular data. The deep learning model was built using PyTorch and the fastai library. The data comes from a Kaggle competition called [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). The goal is to predict the price of a house given the characteristics in the dataset.
+This notebook compares the results of using a deep learning algorithm vs using a random forest algorithm for tabular data. The deep learning model was built using PyTorch and the fastai library. The data comes from a Kaggle competition called [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). The goal is to predict the price of a house given the characteristics in the dataset.
 
 The metric used for the error was the root mean squared percentage error (RMSPE).
 
