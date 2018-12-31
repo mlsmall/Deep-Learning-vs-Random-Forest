@@ -4,7 +4,7 @@ This model compares the results of using a deep learning algorithm vs using a ra
 
 The metric used for the error was the root mean squared percentage error (RMSPE).
 
-<img src="https://github.com/mlsmall/Deep-Learning-vs-Random-Forest/blob/master/RMSPE.png" width="150" />
+<img src="https://github.com/mlsmall/Deep-Learning-vs-Random-Forest/blob/master/RMSPE.png" width="300" />
 
 where yi denotes the sales price for a house and yhati denotes its corresponding prediction. 
 
