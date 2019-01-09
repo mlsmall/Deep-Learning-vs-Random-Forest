@@ -20,7 +20,7 @@ The model is built using PyTorch and the fastai library.
 
 ### Network Acrhitecture
 - An intermediate weight matrix of 200 activation inputs to 100 activation outputs
-- Batch normalization was applied to every continues variable
+- Batch normalization was applied to every continuous variable
 - 2 hidden layers: linear-relu-batch norm, linear-relu-batch-norm
 
 ### Training
